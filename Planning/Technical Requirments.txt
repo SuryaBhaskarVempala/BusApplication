@@ -1,0 +1,49 @@
+Provider Application
+--------------------
+FrontEnd - 
+Languages: HTML/CSS/JS
+
+Backend -
+Languages: Java
+DataBases: Postgres
+
+
+
+
+
+
+User Application
+----------------
+FrontEnd - 
+Languages: HTML/CSS/JS
+
+Backend -
+Languages: Java
+DataBases: Postgres
+
+
+
+Day -2 Planning
+---------------
+
+1. Starting with Regiter interface
+2.Build UI for SignUp with agreed details
+
+Register UI Features
+--------------------
+There are two type of Users
+1. Admin user - should be able to see all the registered users at pending/new status and their registrations details and approve.
+   Once approved, he won't be able to see the task on their list of tasks.
+
+2.New regisration/ User 
+Input details-
+User name should be Email.
+Password should be as per standards.
+Mobile number of service provider.
+Bus details:
+	Bus number(Mandatory)
+	Bus image(Mandatory)
+	Bus docs
+		- RC (Mandatory)
+		- Insurance
+User should be able add any number of busses to his services list
