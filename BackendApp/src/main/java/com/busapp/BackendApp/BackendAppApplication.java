@@ -1,13 +1,14 @@
-package com.dev.RegisterService;
+package com.busapp.BackendApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RegisterServiceApplication {
+public class BackendAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RegisterServiceApplication.class, args);
+
+		SpringApplication.run(BackendAppApplication.class, args);
 	}
 
 }

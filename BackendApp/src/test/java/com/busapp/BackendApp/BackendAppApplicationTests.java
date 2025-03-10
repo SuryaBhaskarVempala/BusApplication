@@ -1,10 +1,10 @@
-package com.dev.RegisterService;
+package com.busapp.BackendApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegisterServiceApplicationTests {
+class BackendAppApplicationTests {
 
 	@Test
 	void contextLoads() {
